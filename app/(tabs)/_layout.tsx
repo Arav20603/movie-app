@@ -1,5 +1,5 @@
 import { Tabs } from 'expo-router'
-import React from 'react'
+import React, { useRef, useState } from 'react'
 import {icons} from '@/constants/icons'
 import {images} from '@/constants/images'
 import { ImageBackground, Text, Image, View } from 'react-native'
@@ -27,6 +27,7 @@ const TabIcon = ({focused, icon, title} : any) => {
 }
 
 const _Layout = () => {
+    
     return (
         <Tabs
             screenOptions={{

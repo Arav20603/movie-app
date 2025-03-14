@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "release_year": 2010,
+        "rating": 8.8,
+        "genre": "Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Dark Knight",
+        "release_year": 2008,
+        "rating": 9.0,
+        "genre": "Action",
+        "poster": "https://play-lh.googleusercontent.com/auIs5tjWlLYaFPGClZOJ7m5YVbnX6uBvz0X02r8TkwFKdzE53ww2MqWSS9gU0YNqoYwvpg"
+    },
+    {
+        "id": 3,
+        "title": "Interstellar",
+        "release_year": 2014,
+        "rating": 8.6,
+        "genre": "Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Matrix",
+        "release_year": 1999,
+        "rating": 8.7,
+        "genre": "Action",
+        "poster": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Titanic",
+        "release_year": 1997,
+        "rating": 7.8,
+        "genre": "Romance",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "The Godfather",
+        "release_year": 1972,
+        "rating": 9.2,
+        "genre": "Crime",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Pulp Fiction",
+        "release_year": 1994,
+        "rating": 8.9,
+        "genre": "Crime",
+        "poster": "https://m.media-amazon.com/images/I/914mMOJHWVL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Forrest Gump",
+        "release_year": 1994,
+        "rating": 8.8,
+        "genre": "Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "The Shawshank Redemption",
+        "release_year": 1994,
+        "rating": 9.3,
+        "genre": "Drama",
+        "poster": "https://m.media-amazon.com/images/I/815qtzaP9iL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Gladiator",
+        "release_year": 2000,
+        "rating": 8.5,
+        "genre": "Action",
+        "poster": "https://m.media-amazon.com/images/I/61dcMsYIAJL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Avatar",
+        "release_year": 2009,
+        "rating": 7.8,
+        "genre": "Sci-Fi",
+        "poster": "https://i.ebayimg.com/images/g/CwEAAOSwv4xf5cdv/s-l1200.jpg"
+    },
+    {
+        "id": 12,
+        "title": "The Lion King",
+        "release_year": 1994,
+        "rating": 8.5,
+        "genre": "Animation",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 13,
+        "title": "The Avengers",
+        "release_year": 2012,
+        "rating": 8.0,
+        "genre": "Action",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Jurassic Park",
+        "release_year": 1993,
+        "rating": 8.1,
+        "genre": "Adventure",
+        "poster": "https://m.media-amazon.com/images/I/A1nnSXofNaL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Star Wars: A New Hope",
+        "release_year": 1977,
+        "rating": 8.6,
+        "genre": "Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/I/81CIXJxQ3TL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Back to the Future",
+        "release_year": 1985,
+        "rating": 8.5,
+        "genre": "Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/S/pv-target-images/c190e195b8b1d440d728fe77b02385975dafba7ce6a18451fa2b1afbe2f81db6.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Mad Max: Fury Road",
+        "release_year": 2015,
+        "rating": 8.1,
+        "genre": "Action",
+        "poster": "https://m.media-amazon.com/images/I/A1AcwZ6MxNL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 18,
+        "title": "The Silence of the Lambs",
+        "release_year": 1991,
+        "rating": 8.6,
+        "genre": "Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id": 19,
+        "title": "The Social Network",
+        "release_year": 2010,
+        "rating": 7.7,
+        "genre": "Drama",
+        "poster": "https://images-cdn.ubuy.co.in/634005564bd9e500b81c8191-the-social-network-movie-poster-david.jpg"
+    },
+    {
+        "id": 20,
+        "title": "The Prestige",
+        "release_year": 2006,
+        "rating": 8.5,
+        "genre": "Mystery",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_FMjpg_UX1000_.jpg"
+    }
+]
